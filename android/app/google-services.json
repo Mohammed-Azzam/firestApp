@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444582311225",
+    "project_id": "speedandsuccess-c0d0b",
+    "storage_bucket": "speedandsuccess-c0d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444582311225:android:33934837d926f8e8f3a4e8",
+        "android_client_info": {
+          "package_name": "com.flasherCheetah.speedAndSuccess.speed_and_success"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444582311225-a6tnms6mhs73rvsigbpc9v0948n4rmni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp8NWf3jFg-MMQ-8TcliYgVCOuTTdn-o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444582311225-a6tnms6mhs73rvsigbpc9v0948n4rmni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
